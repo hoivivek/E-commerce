@@ -1,0 +1,45 @@
+.container{
+    text-align: center;
+}
+h1{
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+h2{
+    text-align: center;
+    background-color:coral;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+.thumbnail{
+    height: 370px;
+    height:fit-content;
+    padding-bottom: 50px;
+    background-color: burlywood;
+    border-radius: 5px;
+}
+
+.s1,.s2,.s3,.s4{
+    padding-bottom: 25px;
+}
+
+.btn{
+    margin-bottom:-10px;
+}
+.thumbnail>img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 153px;
+    align-items: center;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+}
